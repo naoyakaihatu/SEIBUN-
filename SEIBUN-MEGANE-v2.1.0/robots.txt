@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-# Replace with your production sitemap URL after the domain is fixed.
