@@ -1,0 +1,9 @@
+{
+  "name":"SEIBUNメガネ",
+  "short_name":"SEIBUNメガネ",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f7f7f2",
+  "theme_color":"#f7f7f2",
+  "description":"肌タイプと化粧品成分をわかりやすく照らし合わせるツール"
+}

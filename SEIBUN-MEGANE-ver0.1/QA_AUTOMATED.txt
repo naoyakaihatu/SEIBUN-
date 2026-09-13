@@ -1,0 +1,18 @@
+Ingredient DB: 416
+Recommendation ingredients: 15/15 in DB
+32 profile codes: 32/32 unique
+Simple types reached: dry, oily, balance
+Sample ingredient recognition: 8/8
+star 10 -> 1
+star 33 -> 1
+star 34 -> 2
+star 41 -> 2
+star 42 -> 3
+star 67 -> 3
+star 68 -> 4
+star 81 -> 4
+star 82 -> 5
+star 95 -> 5
+Views: 20/20
+Type assets: 32/32
+ALL_AUTOMATED_CHECKS_OK

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" role="img" aria-label="M06 肌タイプイラスト仮画像">
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="hsl(114 36% 94%)"/><stop offset="1" stop-color="hsl(154 34% 86%)"/></linearGradient></defs>
+<rect width="520" height="360" rx="44" fill="url(#g)"/>
+<circle cx="160" cy="150" r="82" fill="white" opacity=".78"/><circle cx="355" cy="198" r="104" fill="white" opacity=".55"/>
+<path d="M105 230 C165 115 250 118 314 228" fill="none" stroke="hsl(114 24% 44%)" stroke-width="12" stroke-linecap="round" opacity=".55"/>
+<circle cx="172" cy="136" r="18" fill="hsl(114 28% 52%)" opacity=".75"/><circle cx="310" cy="205" r="26" fill="hsl(159 28% 56%)" opacity=".65"/>
+<text x="40" y="318" font-family="system-ui,sans-serif" font-size="30" font-weight="700" fill="hsl(114 20% 30%)">SEIBUN M06</text>
+</svg>
